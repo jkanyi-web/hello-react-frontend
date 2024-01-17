@@ -73,6 +73,7 @@ To get a local copy up and running, follow these steps.
 
 - To get the Rails back-end, follow this link:
 https://github.com/jkanyi-web/hello-rails-backend
+- Make sure the rails server is running on port 3000 before running the React front-end app
 
 ### Prerequisites
 

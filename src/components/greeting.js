@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { fetchGreeting } from './features/greeting/greetingSlice';
+import { fetchGreeting } from '../features/greeting/greetingSlice';
 
 function Greeting() {
   const greeting = useSelector((state) => state.greeting);

@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './app/store';
-import Greeting from './greeting';
+import Greeting from './components/greeting';
 
 function App() {
   return (
