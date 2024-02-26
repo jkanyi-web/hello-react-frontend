@@ -20,7 +20,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
 # 📖 hello-react-frontend <a name="about-project"></a>
 
 This exercise is about creating a React front-end with a Rails back-end and connecting them to display a random greeting
