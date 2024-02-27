@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -52,9 +51,7 @@ This exercise is about creating a React front-end with a Rails back-end and conn
   </ul>
 </details>
 
-
 ### Key Features <a name="key-features"></a>
-
 
 - **[Greeting message that changes on page reload]**
 
@@ -109,9 +106,7 @@ To run tests, run the following command:
 
 - npm test
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Author <a name="authors"></a>
 
